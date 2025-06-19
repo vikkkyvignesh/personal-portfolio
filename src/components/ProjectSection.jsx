@@ -33,6 +33,16 @@ const projects = [
     demoUrl: "https://agile-code.vercel.app/sign-in",
     githubUrl: "https://github.com/vikkkyvignesh/agile-code",
   },
+  {
+    id: 4,
+    title: "E-Commerce",
+    description:
+      "Built a full-stack E-commerce app using React and Node.js with payment gateway integration, user auth, product management, and cart/order features.",
+    image: "/projects/Proj_4.png",
+    tags: ["React JS", "Mongo Atlas", "Tailwind CSS", "Node JS"],
+    demoUrl: "https://e-commerce-mpv1.onrender.com",
+    githubUrl: "https://github.com/vikkkyvignesh/mern-ecommerce",
+  },
 ];
 
 const ProjectSection = () => {
